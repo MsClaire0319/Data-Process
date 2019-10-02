@@ -26,7 +26,7 @@
 
 4. language_grade_extract.py   基于正则的项目成绩提取工具
 
-5. baidu_included_0815.py        检测网址是否被百度收录
+5. baidu_included.py        检测网址是否被百度收录
 
 6. seo_search.py                           SEO百度搜索排名工具
 
